@@ -13,7 +13,7 @@ public class Third_week{
     else {
       System.out.println("F학점");
     }
-    //C와 같은구조
+    //C와 같은구조 if문
     for(int j=10;j>0;j-=2){
         System.out.println(j);
     }
